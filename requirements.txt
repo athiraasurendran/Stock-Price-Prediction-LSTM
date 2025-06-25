@@ -1,1 +1,9 @@
-
+python_version == 3.11.8
+streamlit
+pandas
+numpy
+yfinance
+plotly
+scikit-learn
+tensorflow
+keras
