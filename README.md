@@ -37,3 +37,12 @@ This project uses Long Short-Term Memory (LSTM) deep learning models to forecast
 
 ## 📁 Directory Structure
 
+ stock-price-prediction-lstm
+├── 📁 stock_models/ # Trained LSTM models for 25 companies
+├── 📁 streamlit_app/ # Streamlit front-end app
+│ └── app.py # Main Streamlit script
+├── 📁 notebooks/ # Training notebooks (1 per stock)
+├── requirements.txt # Project dependencies
+├── .gitignore # Git ignored files
+├── LICENSE # License file
+└── README.md # Project documentation
