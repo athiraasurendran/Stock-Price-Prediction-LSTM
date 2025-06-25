@@ -46,3 +46,38 @@ This project uses Long Short-Term Memory (LSTM) deep learning models to forecast
 ├── .gitignore # Git ignored files
 ├── LICENSE # License file
 └── README.md # Project documentation
+
+
+---
+
+## Contributors
+
+-  **Athira A S** —
+-  **Akhil V S** — 
+
+---
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## Installation (Local)
+
+```bash
+# Clone the repo
+git clone https://github.com/your-username/stock-price-prediction-lstm.git
+
+# Move into the folder
+cd stock-price-prediction-lstm
+
+# Create virtual environment (optional but recommended)
+python -m venv venv
+source venv/bin/activate  # or venv\Scripts\activate on Windows
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the Streamlit app
+streamlit run streamlit_app/app.py
