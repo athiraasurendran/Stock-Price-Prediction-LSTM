@@ -53,7 +53,7 @@ This project uses Long Short-Term Memory (LSTM) deep learning models to forecast
 ## Contributors
 
 -  **Athira A S** — 
--  **Akhil V S** — 
+-  **Akhil V S** — (https://github.com/AkhilVenugopalSheeba)
 
 ---
 
